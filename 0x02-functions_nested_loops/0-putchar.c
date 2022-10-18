@@ -1,4 +1,4 @@
-#include "aminu.h"
+#include "main.h"
 
 /**
  * main - Prints Aminu as a message.
